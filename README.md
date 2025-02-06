@@ -1,6 +1,26 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm
+Mayank</a></h1>
+<h3 align="center">A passionate self-taught, full-stack developer from Varanasi, India &#127470;&#127475</h3>
 
-🔭 I’m currently working on **MERN project**. <br>👯 I’m looking to collaborate on<br>🤝 I’m open for some freelancing on _Web Dev Projects_.<br>🌱 I’m currently learning about Next.js<br>💬 Ask me about <br>⚡ Fun fact
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xuc2xxeHZzNjhyYWI4em14bDNicjV0ZnAwZGZ6bzZrNDI3aTFtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
+
+-🔭 I’m currently working on **MERN Tech**. 
+
+-👯 I’m looking to collaborate on *anything* that I can contribute to.
+
+-🤝 I’m open for some freelancing on _Web Dev Projects_.
+
+-🌱 I’m currently learning about **Next.js**.
+
+-💬 Ask me about **ReactJs**, **NodeJs**, **MongoDB**, **Data Structures and Algorithms**. 
+
+-⚡ Bet you didn't know...</br> A crocodile cannot stick its tongue out.
+
+</br>
+
+
 
 ## 🌐 Socials:
 
